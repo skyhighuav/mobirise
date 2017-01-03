@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SkyHigh UAV 2",
-    "currentPage": "page1.html",
+    "currentPage": "cirrus.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -90,7 +90,7 @@
               "name": "airplane",
               "family": "icon54-v2",
               "active": true,
-              "link": "www.skyhighuv.com",
+              "link": "cirrus.html",
               "size": 40,
               "newWindow": false
             }
@@ -457,7 +457,7 @@
             "showButtons": true
           },
           "title": "<i><b>Cirrus </b>(ˈsɪrəs)</i>",
-          "text": "Max Flught Time: 60 mins&nbsp;<br>Max Speed: &nbsp;60 km/hr<br>Max Take off Load: 1.5kg",
+          "text": "Max Flught Time: 60 mins&nbsp;<br>Max Speed: &nbsp;60 km/hr<br>Max Take off Load: 2.1kg",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Features</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Detail Specs</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Field Test</a> "
         },
         {
@@ -645,7 +645,7 @@
           "info2": "entries",
           "info3": "(filtered from",
           "info4": "total entries)",
-          "table": "<thead><tr><th><span style=\"font-weight: normal;\">DIMENSIONS:</span>&nbsp;</th><th><span style=\"font-weight: normal;\">1550mm x 660 mm x 170 mm</span></th></tr></thead><tbody><tr><td>WEIGHT:</td><td>Empty: 700 gr | 25 oz</td></tr><tr><td>MAX TAKE-OFF WEIGHT:&nbsp;</td><td>1500 gr | 53 oz</td></tr><tr><td>BATTERY:&nbsp;</td><td>10000 mAh 3-cell LiPo Battery</td></tr><tr><td>GPS:</td><td>Built-in GPS</td></tr><tr><td>PERFORMANCE:<br></td><td>1100kv motor<br>5V servomotor<br>RF Receiver ready SBUS / FHSS / FAAST / (PPM and PCM compatible)&nbsp;<br></td></tr><tr><td>TELEMETRY:</td><td>Radio Transmitter Frequency: 2.4GHZ&nbsp;<br>Telemetry: 9 MHz / 433 MHz<br>Video Downlink: 900MHz / 1.3GHz / 5.8GHz/<br>Radio Transmitter up to 5km / 3.1miles<br><br></td></tr></tbody>"
+          "table": "<thead><tr><th><span style=\"font-weight: normal;\">DIMENSIONS:</span>&nbsp;</th><th><span style=\"font-weight: normal;\">1550mm x 660 mm x 170 mm</span></th></tr></thead><tbody><tr><td>WEIGHT:</td><td>Empty: 700 gr | 25 oz</td></tr><tr><td>MAX TAKE-OFF WEIGHT:&nbsp;</td><td>2100 gr | 74 oz</td></tr><tr><td>BATTERY:&nbsp;</td><td>10000 mAh 3-cell LiPo Battery</td></tr><tr><td>GPS:</td><td>Built-in GPS</td></tr><tr><td>PERFORMANCE:<br></td><td>1100kv motor<br>5V servomotor<br>RF Receiver ready SBUS / FHSS / FAAST / (PPM and PCM compatible)&nbsp;<br></td></tr><tr><td>TELEMETRY:</td><td>Radio Transmitter Frequency: 2.4GHZ&nbsp;<br>Telemetry: 9 MHz / 433 MHz<br>Video Downlink: 900MHz / 1.3GHz / 5.8GHz/<br>Radio Transmitter up to 5km / 3.1miles<br><br></td></tr></tbody>"
         },
         {
           "_styles": {
