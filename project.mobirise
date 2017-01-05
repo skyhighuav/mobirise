@@ -882,7 +882,7 @@
               "src": "@PROJECT_PATH@/assets/images/skyhigh-logo-white1-222x128.png",
               "height": 128,
               "alt": "Skyhigh UAV",
-              "link": "www.skyhighuav.com",
+              "link": "index.html",
               "title": "Welcome to SkyHigh UAV",
               "linkInNewWindow": false
             },
