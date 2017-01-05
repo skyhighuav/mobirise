@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SkyHigh UAV 2",
-    "currentPage": "Home.html",
+    "currentPage": "Hover.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -932,7 +932,7 @@
                 "showText": true,
                 "text": "Collect essential data and make real-time decision with Cirrus. &nbsp;",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Product Specifications</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"cirrus.html\" data-toolbar=\"-mbrBtnMove\">Product Specifications</a> "
               },
               {
                 "active": true,
@@ -947,7 +947,7 @@
                 "showText": true,
                 "text": "Enjoy infinitely flying time with heavy lifting capability.&nbsp;",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Product Specifications</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Hover.html\" data-toolbar=\"-mbrBtnMove\">Product Specifications</a> "
               },
               {
                 "active": false,
@@ -1561,7 +1561,7 @@
             "containerColor2": "#24a383",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cirrus-2000x1414-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-7-tuscany-jpg-2000x1333.jpg",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
