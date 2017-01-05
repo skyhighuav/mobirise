@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SkyHigh UAV 2",
-    "currentPage": "Home.html",
+    "currentPage": "Overview Applications.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -1322,83 +1322,89 @@
             "paddingBottom": 0,
             "images": [
               {
-                "tags": "Responsive",
+                "tags": "Cirrus",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fotolia-50248492-subscription-monthly-m-2000x1330-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/fotolia-50248492-subscription-monthly-m-2000x1330.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fotolia-33734934-subscription-monthly-m-2000x1334-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/fotolia-33734934-subscription-monthly-m-2000x1334.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1446485629029-2307f90137f7-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1446485629029-2307f90137f7-2000x1500.jpg",
+                "caption": "Agriculture &amp; Forestry",
                 "active": false
               },
               {
-                "tags": "Creative",
+                "tags": "Hover",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery02.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476887325222-d082416771ad-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476887325222-d082416771ad-2000x1333.jpg",
+                "caption": "Construction",
+                "active": true
               },
               {
-                "tags": "Animated",
+                "tags": "Hover",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery03.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery03.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/fotolia-33734934-subscription-monthly-m-2000x1334-1-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fotolia-33734934-subscription-monthly-m-2000x1334-1.jpg",
+                "caption": "Disaster Management",
+                "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Cirrus, Hover",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fotolia-50248492-subscription-monthly-m-2000x1330-2-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fotolia-50248492-subscription-monthly-m-2000x1330-2.jpg",
+                "caption": "Environmental Monitoring",
+                "active": false
+              },
+              {
+                "tags": "",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery04.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallery04.jpg",
-                "caption": "Type caption here"
+                "caption": "Mining",
+                "active": false
               },
               {
-                "tags": "Beautiful",
+                "tags": "",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
-                "caption": "Type caption here"
+                "caption": "Survey",
+                "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery05.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallery05.jpg",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery07.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallery07.jpg",
-                "caption": "Type caption here"
+                "caption": "Industrial Inspection",
+                "active": false
               }
             ],
             "spacing": "0",
             "showText": true,
-            "filter": false,
+            "filter": true,
             "bgColor": "#FFFFFF",
             "filterBgColor": false,
             "fullWidth": false,
