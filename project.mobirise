@@ -935,7 +935,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"cirrus.html\" data-toolbar=\"-mbrBtnMove\">Product Specifications</a> "
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/slider02.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -943,43 +943,14 @@
                 "overlayOpacity": "0.2",
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "HOVER",
+                "title": "Hover",
                 "showText": true,
                 "text": "Enjoy infinitely flying time with heavy lifting capability.&nbsp;",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Hover.html\" data-toolbar=\"-mbrBtnMove\">Product Specifications</a> "
               },
               {
-                "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/slider03.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "overlay": true,
-                "overlayOpacity": "0.3",
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "Training",
-                "showText": true,
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/slider04.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "FULL SCREEN SLIDER",
-                "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
-              },
-              {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/slider05.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -987,11 +958,11 @@
                 "overlayOpacity": "0.5",
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "IMAGE SLIDE",
+                "title": "Training",
                 "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "Conducted by US FAA drone pilot, these training courses aim to equip learners with flying skills to soal through the sky proficiently and safely.&nbsp;",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">For Mac</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Training.html\" data-toolbar=\"-mbrBtnMove\">Courses</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Training.html\" data-toolbar=\"-mbrBtnMove\">Industries</a>"
               }
             ],
             "fullScreen": true,
