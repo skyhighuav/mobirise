@@ -635,6 +635,10 @@ a:hover {
   color: #5aac98;
   border-color: #5aac98;
 }
+#content3-19 .mbr-section-title,
+#content3-19 .mbr-section-subtitle {
+  text-align: center;
+}
 #menu1-4 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -842,4 +846,117 @@ a:hover {
 #menu1-x .link[aria-expanded="true"],
 #menu1-x .dropdown-item[aria-expanded="true"] {
   color: #5aac98!important;
+}
+#menu1-10 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu1-10 .navbar-toggler {
+  color: #74a3c7;
+}
+#menu1-10 .close-icon::before,
+#menu1-10 .close-icon::after {
+  background-color: #74a3c7;
+}
+#menu1-10 .link,
+#menu1-10 .dropdown-item {
+  color: #74a3c7;
+  font-family: 'Libre Franklin', serif;
+}
+#menu1-10 .link {
+  font-size: 0.8125rem;
+}
+#menu1-10 .dropdown-item,
+#menu1-10 .nav-dropdown-sm .link {
+  font-size: 0.880rem;
+}
+#menu1-10 .link:hover,
+#menu1-10 .link:focus {
+  color: #5aac98;
+}
+#menu1-10 .dropdown-item:hover::before,
+#menu1-10 .dropdown-item:focus::before {
+  background: #5aac98;
+}
+#menu1-10 .dropdown-item:hover,
+#menu1-10 .dropdown-item:focus {
+  color: #74a3c7;
+}
+#menu1-10 .link[aria-expanded="true"],
+#menu1-10 .dropdown-menu {
+  background: #ffffff;
+}
+#menu1-10 .nav-dropdown-sm .link:focus,
+#menu1-10 .nav-dropdown-sm .link:hover,
+#menu1-10 .nav-dropdown-sm .dropdown-item:focus,
+#menu1-10 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu1-10 .navbar,
+#menu1-10 .nav-dropdown-sm,
+#menu1-10 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu1-10 .nav-dropdown-sm .dropdown-menu {
+  background: #fff;
+}
+#menu1-10 .bg-color.transparent .link {
+  color: #74a3c7;
+  transition: none;
+}
+#menu1-10 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu1-10 .bg-color.transparent.opened .link:hover,
+#menu1-10 .bg-color.transparent.opened .link:focus {
+  color: #5aac98;
+}
+#menu1-10 .link[aria-expanded="true"],
+#menu1-10 .dropdown-item[aria-expanded="true"] {
+  color: #5aac98!important;
+}
+#header5-11 .mbr-section-title,
+#header5-11 .mbr-section-subtitle {
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+#header5-11 .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#header5-11 .mbr-table-cell {
+  vertical-align: middle;
+}
+#header5-11 .heading-title {
+  color: #000000;
+}
+#header5-11 .heading-text {
+  color: #616161;
+}
+#header5-11 .heading-title B {
+  font-size: 80px;
+}
+#features3-12 .mbr-iconfont {
+  background: #5aac98;
+  border-color: #5aac98;
+}
+#features3-12 .features {
+  background: #f6f7f8;
+}
+#features3-12 .heading-title {
+  font-size: 48px;
+}
+#features3-12 .card-text {
+  color: #616161;
+}
+#table1-13 .mbr-section-title {
+  font-size: 48px;
+}
+#content3-14 .mbr-section-title,
+#content3-14 .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-14 H1 {
+  font-size: 48px;
+}
+#features14-15 .mbr-iconfont {
+  color: #5aac98;
+  border-color: #5aac98;
 }
