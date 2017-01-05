@@ -1376,8 +1376,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/land-survey-sample-pic-2000x1330-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/land-survey-sample-pic-2000x1330.jpg",
                 "caption": "Land Survey",
                 "active": true
               },
