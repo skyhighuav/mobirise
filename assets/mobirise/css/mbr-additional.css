@@ -782,6 +782,9 @@ a:hover {
 #form1-s .form {
   background: #fafbfc;
 }
+#form1-s .form {
+  background: #fafbfc;
+}
 #menu1-x .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -959,4 +962,92 @@ a:hover {
 #features14-15 .mbr-iconfont {
   color: #5aac98;
   border-color: #5aac98;
+}
+#menu1-1a .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu1-1a .navbar-toggler {
+  color: #74a3c7;
+}
+#menu1-1a .close-icon::before,
+#menu1-1a .close-icon::after {
+  background-color: #74a3c7;
+}
+#menu1-1a .link,
+#menu1-1a .dropdown-item {
+  color: #74a3c7;
+  font-family: 'Libre Franklin', serif;
+}
+#menu1-1a .link {
+  font-size: 0.8125rem;
+}
+#menu1-1a .dropdown-item,
+#menu1-1a .nav-dropdown-sm .link {
+  font-size: 0.880rem;
+}
+#menu1-1a .link:hover,
+#menu1-1a .link:focus {
+  color: #5aac98;
+}
+#menu1-1a .dropdown-item:hover::before,
+#menu1-1a .dropdown-item:focus::before {
+  background: #5aac98;
+}
+#menu1-1a .dropdown-item:hover,
+#menu1-1a .dropdown-item:focus {
+  color: #74a3c7;
+}
+#menu1-1a .link[aria-expanded="true"],
+#menu1-1a .dropdown-menu {
+  background: #ffffff;
+}
+#menu1-1a .nav-dropdown-sm .link:focus,
+#menu1-1a .nav-dropdown-sm .link:hover,
+#menu1-1a .nav-dropdown-sm .dropdown-item:focus,
+#menu1-1a .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu1-1a .navbar,
+#menu1-1a .nav-dropdown-sm,
+#menu1-1a .nav-dropdown-sm .link[aria-expanded="true"],
+#menu1-1a .nav-dropdown-sm .dropdown-menu {
+  background: #fff;
+}
+#menu1-1a .bg-color.transparent .link {
+  color: #74a3c7;
+  transition: none;
+}
+#menu1-1a .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu1-1a .bg-color.transparent.opened .link:hover,
+#menu1-1a .bg-color.transparent.opened .link:focus {
+  color: #5aac98;
+}
+#menu1-1a .link[aria-expanded="true"],
+#menu1-1a .dropdown-item[aria-expanded="true"] {
+  color: #5aac98!important;
+}
+#header4-1c .mbr-iconfont {
+  color: undefined;
+  border-color: undefined;
+}
+#header4-1c .mbr-table-cell {
+  vertical-align: middle;
+}
+#header4-1c .heading-title {
+  font-size: 60px;
+}
+#features4-1d .card {
+  background-color: transparent;
+  box-shadow: none;
+  border: none;
+}
+#features4-1d .card-img a {
+  border-width: 2px;
+  line-height: 72px;
+}
+#features4-1d .mbr-iconfont {
+  color: #616161;
+  border-color: #616161;
 }
