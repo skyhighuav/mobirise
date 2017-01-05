@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SkyHigh UAV 2",
-    "currentPage": "Hover.html",
+    "currentPage": "Home.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -1545,7 +1545,7 @@
               "color": "#000000"
             },
             ".heading-text": {
-              "color": "#616161"
+              "color": "#fffffd"
             },
             ".heading-title B": {
               "font-size": "80px"
