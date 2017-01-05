@@ -1352,7 +1352,7 @@
                 "active": false
               },
               {
-                "tags": "cirrus",
+                "tags": "Cirrus",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1366,9 +1366,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fotolia-69794995-subscription-monthly-m-2000x1334-1-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/fotolia-69794995-subscription-monthly-m-2000x1334-1.jpg",
-                "caption": "Mining",
+                "thumb": "@PROJECT_PATH@/assets/images/solar-panel-thermal-2000x1330-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/solar-panel-thermal-2000x1330.jpg",
+                "caption": "Industrial Inspection",
                 "active": false
               },
               {
@@ -1379,17 +1379,17 @@
                 "thumb": "@PROJECT_PATH@/assets/images/land-survey-sample-pic-2000x1330-800x532.jpg",
                 "image": "@PROJECT_PATH@/assets/images/land-survey-sample-pic-2000x1330.jpg",
                 "caption": "Land Survey",
-                "active": true
+                "active": false
               },
               {
-                "tags": "",
+                "tags": "Hover",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery05.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery05.jpg",
-                "caption": "Type caption here",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/fotolia-69794995-subscription-monthly-m-2000x1334-2-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fotolia-69794995-subscription-monthly-m-2000x1334-2.jpg",
+                "caption": "Mining",
+                "active": true
               },
               {
                 "tags": "",
