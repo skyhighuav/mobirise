@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SkyHigh UAV 2",
-    "currentPage": "Overview Applications.html",
+    "currentPage": "Home.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -963,7 +963,7 @@
                 "showText": true,
                 "text": "Find our how our UAV systems can help your industry reduce cost and boost productivity.&nbsp;",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"Training.html\" data-toolbar=\"-mbrBtnMove\">Industries</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"Overview Applications.html\" data-toolbar=\"-mbrBtnMove\">Industries</a> "
               },
               {
                 "active": false,
