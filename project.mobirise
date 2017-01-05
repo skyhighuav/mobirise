@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SkyHigh UAV 2",
-    "currentPage": "Home.html",
+    "currentPage": "Overview Applications.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -1326,8 +1326,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1446485629029-2307f90137f7-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1446485629029-2307f90137f7-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fotolia-67176026-subscription-monthly-m-resized-2000x1330-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fotolia-67176026-subscription-monthly-m-resized-2000x1330.jpg",
                 "caption": "Agriculture &amp; Forestry",
                 "active": false
               },
@@ -1339,7 +1339,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476887325222-d082416771ad-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476887325222-d082416771ad-2000x1333.jpg",
                 "caption": "Construction",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Hover",
@@ -1366,8 +1366,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery04.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery04.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fotolia-69794995-subscription-monthly-m-2000x1334-1-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fotolia-69794995-subscription-monthly-m-2000x1334-1.jpg",
                 "caption": "Mining",
                 "active": false
               },
@@ -1379,7 +1379,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
                 "caption": "Survey",
-                "active": false
+                "active": true
               },
               {
                 "tags": "",
