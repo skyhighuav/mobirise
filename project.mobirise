@@ -936,8 +936,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"cirrus.html\" data-toolbar=\"-mbrBtnMove\">Product Specifications</a> "
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/slider02.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1442317108052-456c4a57d603-2000x3000.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "overlay": true,
@@ -966,7 +966,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"Training.html\" data-toolbar=\"-mbrBtnMove\">Industries</a> "
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/slider05.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -978,7 +978,7 @@
                 "showText": true,
                 "text": "Conducted by US FAA drone pilot, these training courses aim to equip learners with flying skills to soal through the sky proficiently and safely.&nbsp;",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Training.html\" data-toolbar=\"-mbrBtnMove\">Courses</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Training.html\" data-toolbar=\"-mbrBtnMove\">Industries</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Training.html\" data-toolbar=\"-mbrBtnMove\">Courses</a> "
               }
             ],
             "fullScreen": true,
