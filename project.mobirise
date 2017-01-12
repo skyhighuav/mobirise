@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SkyHigh UAV 2",
-    "currentPage": "Overview Applications.html",
+    "currentPage": "Home.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -1179,12 +1179,12 @@
           "_JSplaceholders": [],
           "_customCSS": ".form {\n\tbackground: #fafbfc;\n}\n",
           "_customTemplate": true,
-          "_anchor": "form1-s",
           "_styles": {
             ".form": {
               "background": "#fafbfc"
             }
-          }
+          },
+          "_anchor": "form1-s"
         },
         {
           "_tags": [
@@ -2065,6 +2065,15 @@
             "Theme"
           ],
           "_name": "header4",
+          "_styles": {
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-title": {
+              "font-size": "60px"
+            }
+          },
           "_anchor": "header4-1c",
           "_params": {
             "parallax": false,
@@ -2087,16 +2096,7 @@
           },
           "title": "Training",
           "text": "Fly Safely, Fly Responsibly",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-md btn-white\" href=\"https://mobirise.com\">Download for Mac</a>",
-          "_styles": {
-            ".mbr-iconfont": {},
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
-            },
-            ".heading-title": {
-              "font-size": "60px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-md btn-white\" href=\"https://mobirise.com\">Download for Mac</a>"
         },
         {
           "_inherit": "features2",

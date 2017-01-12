@@ -592,10 +592,6 @@ a:hover {
   margin-bottom: 1rem;
   color: #ffffff;
 }
-#header5-a .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
 #header5-a .mbr-table-cell {
   vertical-align: middle;
 }
@@ -921,10 +917,6 @@ a:hover {
   margin-bottom: 1rem;
   color: #ffffff;
 }
-#header5-11 .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
-}
 #header5-11 .mbr-table-cell {
   vertical-align: middle;
 }
@@ -1028,10 +1020,6 @@ a:hover {
 #menu1-1a .link[aria-expanded="true"],
 #menu1-1a .dropdown-item[aria-expanded="true"] {
   color: #5aac98!important;
-}
-#header4-1c .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
 }
 #header4-1c .mbr-table-cell {
   vertical-align: middle;
