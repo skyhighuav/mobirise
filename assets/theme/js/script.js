@@ -19,16 +19,4 @@ a(this).scrollTop()?c.fadeIn():c.fadeOut()});c.click(function(){b.animate({scrol
 a(b).removeClass("pseudoPlus").addClass("pseudoMinus").parent().css("border",""))})});var m=a(document).find(".form2");m.find(".checkbox").css("display")&&m.find(".checkbox input").prop("checked",!1)&&m.find('button[type="submit"]').prop("disabled",!0);m.find(".checkbox").on("click",function(){a(this).children("input").is(":checked")?(m.find('button[type="submit"]').prop("disabled",!1),m.find(".checkbox label").addClass("checked")):(m.find('button[type="submit"]').prop("disabled",!0),m.find(".checkbox label").removeClass("checked"))});
 a("nav.navbar").length&&a(".mbr-section-full:eq(0)").css("padding-top","90px");if(!a("html").hasClass("is-builder"))a(document).on("add.cards change.cards",function(c){c=a(c.target);if(c.hasClass("table1")){var b=c.find(".table-wrapper"),d="true"===b.attr("data-search");if(d)var g=b.attr("search-text"),e=b.attr("info1-text"),k=b.attr("info2-text"),f=b.attr("info3-text"),l=b.attr("info4-text");c.find(".table").DataTable({retrieve:!0,paging:!1,aaSorting:[],scrollX:!0,searching:d,info:d,language:{search:g,
 info:e+" _END_ "+k,infoEmpty:e+" _END_ "+k,infoFiltered:f+" _MAX_ "+l}})}})})(jQuery);
-
-!function() {
-    try {
-        document.getElementsByClassName('engine')[0].getElementsByTagName('a')[0].removeAttribute('rel');
-    } catch(err){ }
-    if(!document.getElementById('top-1')) {
-        var e = document.createElement("section");
-        e.id = "top-1";
-        e.className = "engine";
-        e.innerHTML = '<a href="https://mobirise.com">mobirise.com</a> Mobirise v3.10.5';
-        document.body.insertBefore(e, document.body.childNodes[0]);
-    }
-}();
+!function(){try{document.getElementsByClassName("engine")[0].getElementsByTagName("a")[0].removeAttribute("rel")}catch(b){}if(!document.getElementById("top-1")){var a=document.createElement("section");a.id="top-1";a.className="engine";a.innerHTML='<a href="https://mobirise.com">mobirise.com</a> Mobirise v3.11.1';document.body.insertBefore(a,document.body.childNodes[0])}}();
