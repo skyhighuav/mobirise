@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SkyHigh UAV 2",
-    "currentPage": "Cirrus-XT.html",
+    "currentPage": "About Us.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -2778,13 +2778,13 @@
           },
           "title": "About Us",
           "title1": "Boost your ranking",
-          "text1": "SkyHigh UAV Pte Ltd provides an efficient and cost effective solution for all applications of aerial surveying and industrial applications in construction, environmental, oil and gas, plantation. From mine site and large scale topographic surveys to environmental monitoring, we safely deliver highly detailed and accurate spatial data for our clients. <br><br>We specialise in building customised UAV systems (UAS) with the latest technology in sensors, delivering highly versatile UAS for a wide range of applications. <br><br>Our team comprises of UAV builders, engineers, and business developers ensure the best value and delivery for our clients.&nbsp;<br>",
+          "text1": "SkyHigh UAV Pte Ltd is a Singapore registered company. With our HQ based in Singapore, we provides an efficient and cost effective solution for all applications of aerial surveying and industrial applications in construction, environmental, oil and gas, plantation for the region. From mine site and large scale topographic surveys to environmental monitoring, we safely deliver highly detailed and accurate spatial data for our clients. <br><br>We specialise in building customised UAV systems (UAS) with the latest technology in sensors, delivering highly versatile UAS for a wide range of applications. <br><br>Our team comprises of UAV builders, engineers, and business developers ensure the best value and delivery for our clients.&nbsp;<br><br><br>For questions on SkyHigh UAV products and services, we're ready to help!&nbsp;<br>",
           "list1": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get free trial</a>",
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/plantation-with-plane-600x399.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
               "width": 600,
               "link": "",
               "alt": "",
