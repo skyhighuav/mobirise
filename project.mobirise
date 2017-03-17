@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SkyHigh UAV 2",
-    "currentPage": "Cirrus-XT.html",
+    "currentPage": "HOVER.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -3245,7 +3245,7 @@
           },
           "title": "<i><b>HOVER-T&nbsp;</b>('hɒvə)</i>",
           "text": "Flight Time: ∞ mins&nbsp;<br>Max Speed: &nbsp;30 km/hr<br>Max Take off Load: 15kg",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"cirrus.html#features3-d\" data-toolbar=\"-mbrBtnMove\">Features</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"cirrus.html#table1-k\" data-toolbar=\"-mbrBtnMove\">Detail Specs</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"cirrus.html#header3-l\" data-toolbar=\"-mbrBtnMove\">Field Test</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Hover-T.html#features3-12\" data-toolbar=\"-mbrBtnMove\">Features</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Hover-T.html#table1-13\" data-toolbar=\"-mbrBtnMove\">Detail Specs</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"Hover-T.html#header3-16\" data-toolbar=\"-mbrBtnMove\">Field Test</a> "
         },
         {
           "subtitle1": "Awesome",
@@ -3812,7 +3812,7 @@
           },
           "title": "<i><b>HOVER&nbsp;</b>('hɒvə)</i>",
           "text": "Flight Time: Approximately 15 mins&nbsp;<br>Max Speed: &nbsp;30 km/hr<br>Max Take off Load: 15kg",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"cirrus.html#features3-d\" data-toolbar=\"-mbrBtnMove\">Features</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"cirrus.html#table1-k\" data-toolbar=\"-mbrBtnMove\">Detail Specs</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"cirrus.html#header3-l\" data-toolbar=\"-mbrBtnMove\">Field Test</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"HOVER.html#features3-2g\" data-toolbar=\"-mbrBtnMove\">Features</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"HOVER.html#table1-2h\" data-toolbar=\"-mbrBtnMove\">Detail Specs</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"HOVER.html#header3-2k\" data-toolbar=\"-mbrBtnMove\">Field Test</a> "
         },
         {
           "subtitle1": "Awesome",
@@ -4380,7 +4380,7 @@
           },
           "title": "<i><b>Cirrus-XT </b>('sɪrəs)&nbsp;</i>",
           "text": "Max Flight Time: 120 mins&nbsp;<br>Max Speed: &nbsp;60 km/hr<br>Max Take off Load: 3 kg",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"cirrus.html#features3-d\" data-toolbar=\"-mbrBtnMove\">Features</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"cirrus.html#table1-k\" data-toolbar=\"-mbrBtnMove\">Detail Specs</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"cirrus.html#header3-l\" data-toolbar=\"-mbrBtnMove\">Field Test</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Cirrus-XT.html#features3-2p\" data-toolbar=\"-mbrBtnMove\">Features</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Cirrus-XT.html#table1-2q\" data-toolbar=\"-mbrBtnMove\">Detail Specs</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"Cirrus-XT.html#header3-2t\" data-toolbar=\"-mbrBtnMove\">Field Test</a> "
         },
         {
           "subtitle1": "Awesome",
