@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SkyHigh UAV 2",
-    "currentPage": "About Us.html",
+    "currentPage": "Overview Applications.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 120,
+    "uniqCompNum": 125,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -91,7 +91,7 @@
               "name": "airplane",
               "family": "icon54-v2",
               "active": true,
-              "link": "cirrus.html",
+              "link": "Home.html",
               "size": 40,
               "newWindow": false
             }
@@ -149,656 +149,6 @@
           ],
           "_name": "footer3",
           "_anchor": "footer3-33",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "file:///C:/Users/martin/AppData/Local/Mobirise.com/Mobirise/projectData/01_2.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.9,
-            "overlayColor": "#fff"
-          },
-          "title1": "Singapore",
-          "text2": "<a href=\"Tel: +6594873063\">+65 94873063</a>",
-          "title2": "Indonesia",
-          "text1": "<a href=\"Tel:+62082140900199\">+62 082140900199</a>",
-          "title3": "Need help? Call or email us",
-          "button": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"mailto:sales@skyhighuav.com\" data-toolbar=\"-mbrBtnMove\">Email Us</a>"
-        },
-        {
-          "_styles": {
-            "p": {
-              "color": "#000"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer4",
-          "_anchor": "footer4-2m",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 SkyHigh UAV Pte Ltd"
-        }
-      ]
-    },
-    "cirrus.html": {
-      "settings": {
-        "title": "Cirrus - Fixed Wing",
-        "meta_descr": "Drone, UAV, Fixed wing, agriculture, RC, aircraft, productivity, efficiency, tree health, tree counting, ",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 9
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-toggler": {
-              "color": "#74a3c7"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#74a3c7"
-            },
-            ".link, .dropdown-item": {
-              "color": "#74a3c7",
-              "font-family": "'Libre Franklin', serif"
-            },
-            ".link": {
-              "font-size": "0.8125rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.880rem"
-            },
-            ".link:hover, .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
-              "background": "@primaryColor"
-            },
-            ".dropdown-item:hover, .dropdown-item:focus": {
-              "color": "#74a3c7"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#74a3c7",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#5aac98!important"
-            }
-          },
-          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu1",
-          "_anchor": "menu1-9",
-          "_params": {
-            "bgColor": "#fff",
-            "fontSize": 0.8125,
-            "imageSize": 4,
-            "fontName": {
-              "name": "Libre Franklin",
-              "css": "'Libre Franklin', serif",
-              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
-            },
-            "fontColor": "#74a3c7",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/skyhigh-logo-white1-222x128.png",
-              "height": 128,
-              "alt": "Skyhigh UAV",
-              "link": "www.skyhighuav.com",
-              "title": "Welcome to SkyHigh UAV",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FIXED WING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cirrus.html\">CIRRUS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cirrus-XT.html\">CIRRUS-XT</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">MULTICOPTER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hover-T.html\">HOVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hover-T.html\">HOVER-T (TETHERED)</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"customisation.html\" aria-expanded=\"false\">CUSTOMISATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Overview Applications.html\" aria-expanded=\"false\">APPLICATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Training.html\" aria-expanded=\"false\">TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "margin-bottom": "1rem",
-              "color": "#ffffff"
-            },
-            ".mbr-iconfont": {},
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
-            },
-            ".heading-title": {
-              "color": "#000000"
-            },
-            ".heading-text": {
-              "color": "#616161"
-            },
-            ".heading-title B": {
-              "font-size": "80px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header5",
-          "_anchor": "header5-a",
-          "_params": {
-            "containerColor1": "#084a6e",
-            "containerColor2": "#24a383",
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cirrus-2000x1414-1.jpg",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000000",
-            "contentAlign": "left",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "title": "<i><b>Cirrus </b>('sɪrəs)</i>",
-          "text": "Max Flight Time: 63 mins&nbsp;<br>Max Speed: &nbsp;60 km/hr<br>Max Take off Load: 2.1kg",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"cirrus.html#features3-d\" data-toolbar=\"-mbrBtnMove\">Features</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"cirrus.html#table1-k\" data-toolbar=\"-mbrBtnMove\">Detail Specs</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"cirrus.html#header3-l\" data-toolbar=\"-mbrBtnMove\">Field Test</a> "
-        },
-        {
-          "subtitle1": "Awesome",
-          "subtitle2": "Awesome",
-          "subtitle3": "Awesome",
-          "subtitle4": "Awesome",
-          "subtitle5": "Awesome",
-          "subtitle6": "Awesome",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            ".mbr-iconfont": {
-              "background": "@primaryColor",
-              "border-color": "@primaryColor"
-            },
-            ".features": {
-              "background": "#f6f7f8"
-            },
-            ".heading-title": {
-              "font-size": "48px"
-            },
-            ".card-text": {
-              "color": "#616161"
-            }
-          },
-          "_anchor": "features3-d",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "featuresBg": "#f6f7f8",
-            "iconsBgColor": "@primaryColor",
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1482053450283-3e0b78b09a70-2000x3000.jpg",
-            "bgColor": "#fffffd",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.95,
-            "overlayColor": "#fffffd",
-            "showHeading": true,
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "showFeaturesHeader": true,
-            "columns": 2,
-            "showFeaturesImages": true,
-            "showFeaturesTitles": true,
-            "showFeaturesTexts": true,
-            "showFeaturesButtons": false
-          },
-          "title": "Features",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
-          "header": "",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "briefcase",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 40,
-              "color": "#fff"
-            }
-          },
-          "title1": "PORTABLE <br>- Easy to carry",
-          "text1": "Fixed-wing can be dismantled into 3 parts. Setting up the plane takes less than 5 mins.&nbsp;",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "feather",
-              "family": "icon54",
-              "active": true,
-              "link": "",
-              "size": 40,
-              "color": "#fff",
-              "newWindow": false
-            }
-          },
-          "title2": "LIGHTWEIGHT <br>- Strong and stable",
-          "text2": "Made of high density foam, this plane is made to endure undesirable flight conditions.&nbsp;",
-          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "user-path",
-              "family": "icon54-v2",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 40,
-              "color": "#fff"
-            }
-          },
-          "title3": "AUTONOMOUS <br>- Easy control",
-          "text3": "Once launched, the plane follows a pre-planned route, and lands automatically with precision. No flight training required.&nbsp;",
-          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "target",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "",
-              "size": 40,
-              "color": "#fff",
-              "newWindow": false
-            }
-          },
-          "title4": "ACCURACY <br>- Terrain following",
-          "text4": "Fixed-wing maintains a constant height above the terrain to ensure crisp and sharp imaging&nbsp;",
-          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "cash",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "color": "#fff",
-              "family": "MobiriseIcons"
-            }
-          },
-          "title5": "Host Anywhere",
-          "text5": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo error voluptatibus possimus nobis quos minima pariatur aperiam, sunt commodi incidunt nam iusto ipsa distinctio ipsam!",
-          "button5": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "unlock",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "color": "#fff",
-              "family": "MobiriseIcons"
-            }
-          },
-          "title6": "Bootstrap 4",
-          "text6": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut officia reiciendis id enim hic harum voluptatem repellat incidunt soluta cum quia facere sed, ea illo.",
-          "button6": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "table1",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "48px"
-            }
-          },
-          "_anchor": "table1-k",
-          "_params": {
-            "rowСount": "6",
-            "colCount": "2",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1463130456064-77fda7f96d6b-2000x1333.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#fff",
-            "showTitle": true,
-            "showSearch": false
-          },
-          "title": "Detail Specifications",
-          "search": "Search:",
-          "info1": "Showing",
-          "info2": "entries",
-          "info3": "(filtered from",
-          "info4": "total entries)",
-          "table": "<thead><tr><th><span style=\"font-weight: normal;\">DIMENSIONS:</span>&nbsp;</th><th><span style=\"font-weight: normal;\">1550mm x 660 mm x 170 mm</span></th></tr></thead><tbody><tr><td>WEIGHT:</td><td>Empty: 700 gr | 25 oz</td></tr><tr><td>MAX TAKE-OFF WEIGHT:&nbsp;</td><td>2100 gr | 74 oz</td></tr><tr><td>BATTERY:&nbsp;</td><td>10000 mAh 3-cell LiPo Battery</td></tr><tr><td>GPS:</td><td>Built-in GPS</td></tr><tr><td>PERFORMANCE:<br></td><td>1100kv motor<br>5V servomotor<br>RF Receiver ready SBUS / FHSS / FAAST / (PPM and PCM compatible)&nbsp;<br></td></tr><tr><td>TELEMETRY:</td><td>Radio Transmitter Frequency: 2.4GHZ&nbsp;<br>Telemetry: 9 MHz / 433 MHz<br>Video Downlink: 900MHz / 1.3GHz / 5.8GHz/<br>Radio Transmitter up to 5km / 3.1miles<br><br></td></tr></tbody>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H1": {
-              "font-size": "48px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content3",
-          "_anchor": "content3-i",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": false
-          },
-          "title": "Simple 3-Steps Process",
-          "meta": ""
-        },
-        {
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "touch",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "subtitle1": "Awesome",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "responsive",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "subtitle2": "Awesome",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "setting",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "subtitle3": "Awesome",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "hot-cup",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "subtitle4": "Awesome",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features14",
-          "_styles": {
-            ".mbr-iconfont": {
-              "color": "@primaryColor",
-              "border-color": "@primaryColor"
-            }
-          },
-          "_anchor": "features14-f",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "contentAlign": "center",
-            "iconsBgColor": "@primaryColor",
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1481114536533-b80e3d4eb1d4-2000x2451.jpg",
-            "bgColor": "#fffffd",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.85,
-            "overlayColor": "#fffffd",
-            "showHeading": false,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "columns": 3,
-            "showFeaturesImages": true,
-            "showFeaturesTitles": false,
-            "showFeaturesTexts": true,
-            "showFeaturesButtons": false
-          },
-          "title": "Always on your terms",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
-          "number1": "<p>1</p>",
-          "title1": "What is Mobirise",
-          "text1": "Plan your flight path",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "number2": "<p>2</p>",
-          "title2": "What is Mobirise",
-          "text2": "Fly and collect data",
-          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "number3": "<p>3</p>",
-          "title3": "What is Mobirise",
-          "text3": "Upload to SkyHigh UAV portal and wait for results",
-          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "number4": "<p>4</p>",
-          "title4": "What is Mobirise",
-          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-l",
-          "_params": {
-            "imageSize": 58,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/header3.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": false
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/header/03.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=TnkDf1cQdlU&feature=em-upload_owner",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            }
-          },
-          "title": "Field Testing",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content3",
-          "_anchor": "content3-19",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#fff",
-            "showMeta": false
-          },
-          "title": "Applications",
-          "meta": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fotolia-66673037-subscription-monthly-m-2000x1332-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/fotolia-66673037-subscription-monthly-m-2000x1332.jpg",
-                "caption": "Agriculture &amp; Forestry",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
-                "caption": "Parcel delivery"
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fotolia-69794995-subscription-monthly-m-2000x1334-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/fotolia-69794995-subscription-monthly-m-2000x1334.jpg",
-                "caption": "Mining",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/capture1-2000x1266-800x506.png",
-                "image": "@PROJECT_PATH@/assets/images/capture1-2000x1266.png",
-                "caption": "Survey",
-                "active": true
-              }
-            ],
-            "spacing": 0,
-            "showText": true,
-            "filter": false,
-            "bgColor": "#FFFFFF",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery1-18",
-          "articleLayout": false,
-          "allItem": "All",
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer3",
-          "_anchor": "footer3-38",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -1130,7 +480,7 @@
       "settings": {
         "title": "Customisation",
         "meta_descr": "Share with us your requirements, and we will recommend a UAV system for you. ",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1355,7 +705,7 @@
     "Overview Applications.html": {
       "settings": {
         "title": "Overview of UAV Applications",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -2278,7 +1628,7 @@
     "Training.html": {
       "settings": {
         "title": "Training",
-        "order": 7,
+        "order": 6,
         "meta_descr": "SkyHigh UAV provides drone training for both multicopters and fixed wing, conducted by US FAA drone pilot. "
       },
       "components": [
@@ -2629,7 +1979,7 @@
     "About Us.html": {
       "settings": {
         "title": "About Us",
-        "order": 6,
+        "order": 5,
         "meta_descr": "SkyHigh UAV produces our own UAV system. "
       },
       "components": [
@@ -2881,793 +2231,14 @@
         }
       ]
     },
-    "Contact Us.html": {
+    "HOVER.html": {
       "settings": {
-        "title": "Contact Us",
-        "order": 5
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-toggler": {
-              "color": "#74a3c7"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#74a3c7"
-            },
-            ".link, .dropdown-item": {
-              "color": "#74a3c7",
-              "font-family": "'Libre Franklin', serif"
-            },
-            ".link": {
-              "font-size": "0.8125rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.880rem"
-            },
-            ".link:hover, .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
-              "background": "@primaryColor"
-            },
-            ".dropdown-item:hover, .dropdown-item:focus": {
-              "color": "#74a3c7"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#74a3c7",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#5aac98!important"
-            }
-          },
-          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu1",
-          "_anchor": "menu1-29",
-          "_params": {
-            "bgColor": "#fff",
-            "fontSize": 0.8125,
-            "imageSize": 4,
-            "fontName": {
-              "name": "Libre Franklin",
-              "css": "'Libre Franklin', serif",
-              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
-            },
-            "fontColor": "#74a3c7",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/skyhigh-logo-white1-222x128.png",
-              "height": 128,
-              "alt": "Skyhigh UAV",
-              "link": "www.skyhighuav.com",
-              "title": "Welcome to SkyHigh UAV",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FIXED WING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cirrus.html\">CIRRUS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cirrus-XT.html\">CIRRUS-XT</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">MULTICOPTER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hover-T.html\">HOVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hover-T.html\">HOVER-T (TETHERED)</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"customisation.html\" aria-expanded=\"false\">CUSTOMISATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Overview Applications.html\" aria-expanded=\"false\">APPLICATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Training.html\" aria-expanded=\"false\">TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
-        },
-        {
-          "_styles": {
-            "p": {
-              "color": "#000"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer4",
-          "_anchor": "footer4-2a",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 SkyHigh UAV Pte Ltd"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header6",
-          "_anchor": "header6-2b",
-          "_params": {
-            "imageSize": 70,
-            "paddingTop": 3,
-            "paddingBottom": "0",
-            "containerColor1": "#fffffd",
-            "containerColor2": "#fffffd",
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/header3.jpg",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x718.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "Contact Us",
-          "text": "For questions onSkyHigh UAV products and services, we're ready to help!&nbsp;",
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"tel: +65 94873063\" data-toolbar=\"-mbrBtnMove\">Indon Phone</a>",
-          "_styles": {
-            "H3": {
-              "color": "#616161"
-            },
-            "P": {
-              "color": "#616161"
-            }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer3",
-          "_anchor": "footer3-35",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "file:///C:/Users/martin/AppData/Local/Mobirise.com/Mobirise/projectData/01_2.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.9,
-            "overlayColor": "#fff"
-          },
-          "title1": "Singapore",
-          "text2": "<a href=\"Tel: +6594873063\">+65 94873063</a>",
-          "title2": "Indonesia",
-          "text1": "<a href=\"Tel:+62082140900199\">+62 082140900199</a>",
-          "title3": "Need help? Call or email us",
-          "button": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"mailto:sales@skyhighuav.com\" data-toolbar=\"-mbrBtnMove\">Email Us</a>"
-        }
-      ]
-    },
-    "Hover-T.html": {
-      "settings": {
-        "title": "Hover-T: Infinite flight time",
+        "title": "HOVER: Multicopter",
         "meta_descr": "Drone, UAV, Fixed wing, agriculture, RC, aircraft, productivity, efficiency, tree health, tree counting, tethered, infinite flight",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
         "order": 10
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-toggler": {
-              "color": "#74a3c7"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#74a3c7"
-            },
-            ".link, .dropdown-item": {
-              "color": "#74a3c7",
-              "font-family": "'Libre Franklin', serif"
-            },
-            ".link": {
-              "font-size": "0.8125rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.880rem"
-            },
-            ".link:hover, .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
-              "background": "@primaryColor"
-            },
-            ".dropdown-item:hover, .dropdown-item:focus": {
-              "color": "#74a3c7"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#74a3c7",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#5aac98!important"
-            }
-          },
-          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu1",
-          "_anchor": "menu1-10",
-          "_params": {
-            "bgColor": "#fff",
-            "fontSize": 0.8125,
-            "imageSize": 4,
-            "fontName": {
-              "name": "Libre Franklin",
-              "css": "'Libre Franklin', serif",
-              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
-            },
-            "fontColor": "#74a3c7",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/skyhigh-logo-white1-222x128.png",
-              "height": 128,
-              "alt": "Skyhigh UAV",
-              "link": "www.skyhighuav.com",
-              "title": "Welcome to SkyHigh UAV",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FIXED WING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cirrus.html\">CIRRUS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cirrus-XT.html\">CIRRUS-XT</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">MULTICOPTER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hover-T.html\">HOVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hover-T.html\">HOVER-T (TETHERED)</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"customisation.html\" aria-expanded=\"false\">CUSTOMISATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Overview Applications.html\" aria-expanded=\"false\">APPLICATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Training.html\" aria-expanded=\"false\">TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "margin-bottom": "1rem",
-              "color": "#ffffff"
-            },
-            ".mbr-iconfont": {},
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
-            },
-            ".heading-title": {
-              "color": "#000000"
-            },
-            ".heading-text": {
-              "color": "#000000"
-            },
-            ".heading-title B": {
-              "font-size": "80px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header5",
-          "_anchor": "header5-11",
-          "_params": {
-            "containerColor1": "#084a6e",
-            "containerColor2": "#24a383",
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/tethered-drone-2000x1333.jpg",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000000",
-            "contentAlign": "left",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "title": "<i><b>HOVER-T&nbsp;</b>('hɒvə)</i>",
-          "text": "Flight Time: ∞ mins&nbsp;<br>Max Speed: &nbsp;30 km/hr<br>Max Take off Load: 15kg",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Hover-T.html#features3-12\" data-toolbar=\"-mbrBtnMove\">Features</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Hover-T.html#table1-13\" data-toolbar=\"-mbrBtnMove\">Detail Specs</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"Hover-T.html#header3-16\" data-toolbar=\"-mbrBtnMove\">Field Test</a> "
-        },
-        {
-          "subtitle1": "Awesome",
-          "subtitle2": "Awesome",
-          "subtitle3": "Awesome",
-          "subtitle4": "Awesome",
-          "subtitle5": "Awesome",
-          "subtitle6": "Awesome",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            ".mbr-iconfont": {
-              "background": "@primaryColor",
-              "border-color": "@primaryColor"
-            },
-            ".features": {
-              "background": "#f6f7f8"
-            },
-            ".heading-title": {
-              "font-size": "48px"
-            },
-            ".card-text": {
-              "color": "#616161"
-            }
-          },
-          "_anchor": "features3-12",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "featuresBg": "#f6f7f8",
-            "iconsBgColor": "@primaryColor",
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1482053450283-3e0b78b09a70-2000x3000.jpg",
-            "bgColor": "#fffffd",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.95,
-            "overlayColor": "#fffffd",
-            "showHeading": true,
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "showFeaturesHeader": true,
-            "columns": 2,
-            "showFeaturesImages": true,
-            "showFeaturesTitles": true,
-            "showFeaturesTexts": true,
-            "showFeaturesButtons": false
-          },
-          "title": "Features",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
-          "header": "",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "electricity",
-              "family": "iconsMind",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 40,
-              "color": "#fff"
-            }
-          },
-          "title1": "UNLIMITED POWER<br>- Long endurance flight",
-          "text1": "Hover is built for long endurance operation and surveillance purpose.&nbsp;",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "weight-lift",
-              "family": "icon54",
-              "active": true,
-              "link": "",
-              "size": 40,
-              "color": "#fff",
-              "newWindow": false
-            }
-          },
-          "title2": "HEAVY LIFTING<br>- Strong and stable",
-          "text2": "Specially customised for heavy duty lifting, Hover can&nbsp;",
-          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "user-path",
-              "family": "icon54-v2",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 40,
-              "color": "#fff"
-            }
-          },
-          "title3": "AUTONOMOUS <br>- Easy control",
-          "text3": "Once launched, Hover follows a pre-planned route, and lands automatically with precision. No flight training required.&nbsp;",
-          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "life-safer",
-              "family": "iconsMind",
-              "active": true,
-              "link": "",
-              "size": 40,
-              "color": "#fff",
-              "newWindow": false
-            }
-          },
-          "title4": "Safety&nbsp;<br>- Peace of mind",
-          "text4": "Built in safety features for emergency landing, in the event of unforeseen equipment failure. &nbsp;",
-          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "cash",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "color": "#fff",
-              "family": "MobiriseIcons"
-            }
-          },
-          "title5": "Host Anywhere",
-          "text5": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo error voluptatibus possimus nobis quos minima pariatur aperiam, sunt commodi incidunt nam iusto ipsa distinctio ipsam!",
-          "button5": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "unlock",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "color": "#fff",
-              "family": "MobiriseIcons"
-            }
-          },
-          "title6": "Bootstrap 4",
-          "text6": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut officia reiciendis id enim hic harum voluptatem repellat incidunt soluta cum quia facere sed, ea illo.",
-          "button6": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "table1",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "48px"
-            }
-          },
-          "_anchor": "table1-13",
-          "_params": {
-            "rowСount": "6",
-            "colCount": "2",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1463130456064-77fda7f96d6b-2000x1333.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#fff",
-            "showTitle": true,
-            "showSearch": false
-          },
-          "title": "Detail Specifications",
-          "search": "Search:",
-          "info1": "Showing",
-          "info2": "entries",
-          "info3": "(filtered from",
-          "info4": "total entries)",
-          "table": "<thead><tr><th><span style=\"font-weight: normal;\">DIMENSIONS:</span>&nbsp;</th><th><span style=\"font-weight: normal;\">Diameter: 700mm</span></th></tr></thead><tbody><tr><td>WEIGHT:</td><td>Empty: 2.7kg | 95 oz</td></tr><tr><td>MAX TAKE-OFF WEIGHT:&nbsp;</td><td>4.2kg | 74 oz</td></tr><tr><td>BATTERY:&nbsp;</td><td>Tethered powerline + 5000 mAh 3-cell LiPo Battery</td></tr><tr><td>GPS:</td><td>Built-in GPS</td></tr><tr><td>PERFORMANCE:<br></td><td>1100kv motor<br>RF Receiver ready SBUS / FHSS / FAAST / (PPM and PCM compatible)&nbsp;<br></td></tr><tr><td>TELEMETRY:</td><td>Radio Transmitter Frequency: 2.4GHZ&nbsp;<br>Telemetry: 9 MHz / 433 MHz<br>Video Downlink: 900MHz / 1.3GHz / 5.8GHz/<br>Radio Transmitter up to 3km / 1.7miles<br><br></td></tr></tbody>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H1": {
-              "font-size": "48px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content3",
-          "_anchor": "content3-14",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": false
-          },
-          "title": "Simple 3-Steps Process",
-          "meta": ""
-        },
-        {
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "touch",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "subtitle1": "Awesome",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "responsive",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "subtitle2": "Awesome",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "setting",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "subtitle3": "Awesome",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "hot-cup",
-              "link": "https://mobirise.com",
-              "size": 40,
-              "family": "MobiriseIcons"
-            }
-          },
-          "subtitle4": "Awesome",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features14",
-          "_styles": {
-            ".mbr-iconfont": {
-              "color": "@primaryColor",
-              "border-color": "@primaryColor"
-            }
-          },
-          "_anchor": "features14-15",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "contentAlign": "center",
-            "iconsBgColor": "@primaryColor",
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1481114536533-b80e3d4eb1d4-2000x2451.jpg",
-            "bgColor": "#fffffd",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.85,
-            "overlayColor": "#fffffd",
-            "showHeading": false,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "columns": 3,
-            "showFeaturesImages": true,
-            "showFeaturesTitles": false,
-            "showFeaturesTexts": true,
-            "showFeaturesButtons": false
-          },
-          "title": "Always on your terms",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
-          "number1": "<p>1</p>",
-          "title1": "What is Mobirise",
-          "text1": "Plan your flight path",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "number2": "<p>2</p>",
-          "title2": "What is Mobirise",
-          "text2": "Fly and collect data",
-          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "number3": "<p>3</p>",
-          "title3": "What is Mobirise",
-          "text3": "Upload to SkyHigh UAV portal and wait for results",
-          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "number4": "<p>4</p>",
-          "title4": "What is Mobirise",
-          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-16",
-          "_params": {
-            "imageSize": 58,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/header3.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": false
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/header/03.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=TnkDf1cQdlU&feature=em-upload_owner",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            }
-          },
-          "title": "Field Testing",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer3",
-          "_anchor": "footer3-36",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "file:///C:/Users/martin/AppData/Local/Mobirise.com/Mobirise/projectData/01_2.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.9,
-            "overlayColor": "#fff"
-          },
-          "title1": "Singapore",
-          "text2": "<a href=\"Tel: +6594873063\">+65 94873063</a>",
-          "title2": "Indonesia",
-          "text1": "<a href=\"Tel:+62082140900199\">+62 082140900199</a>",
-          "title3": "Need help? Call or email us",
-          "button": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"mailto:sales@skyhighuav.com\" data-toolbar=\"-mbrBtnMove\">Email Us</a>"
-        },
-        {
-          "_styles": {
-            "p": {
-              "color": "#000"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer4",
-          "_anchor": "footer4-20",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 SkyHigh UAV Pte Ltd"
-        }
-      ]
-    },
-    "HOVER.html": {
-      "settings": {
-        "title": "Cirrus-XT - Fixed Wing",
-        "meta_descr": "Drone, UAV, Fixed wing, agriculture, RC, aircraft, productivity, efficiency, tree health, tree counting, tethered, infinite flight",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 11
       },
       "components": [
         {
@@ -4227,14 +2798,1231 @@
         }
       ]
     },
-    "Cirrus-XT.html": {
+    "HOVER-T.html": {
       "settings": {
-        "title": "Cirrus-XT - Fixed Wing",
+        "title": "Hover-T: Infinite flight time",
+        "meta_descr": "Drone, UAV, Fixed wing, agriculture, RC, aircraft, productivity, efficiency, tree health, tree counting, tethered, infinite flight",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 9
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#74a3c7"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#74a3c7"
+            },
+            ".link, .dropdown-item": {
+              "color": "#74a3c7",
+              "font-family": "'Libre Franklin', serif"
+            },
+            ".link": {
+              "font-size": "0.8125rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.880rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#74a3c7"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#74a3c7",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#5aac98!important"
+            }
+          },
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-10",
+          "_params": {
+            "bgColor": "#fff",
+            "fontSize": 0.8125,
+            "imageSize": 4,
+            "fontName": {
+              "name": "Libre Franklin",
+              "css": "'Libre Franklin', serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
+            },
+            "fontColor": "#74a3c7",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/skyhigh-logo-white1-222x128.png",
+              "height": 128,
+              "alt": "Skyhigh UAV",
+              "link": "www.skyhighuav.com",
+              "title": "Welcome to SkyHigh UAV",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FIXED WING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cirrus.html\">CIRRUS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cirrus-XT.html\">CIRRUS-XT</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">MULTICOPTER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hover-T.html\">HOVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hover-T.html\">HOVER-T (TETHERED)</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"customisation.html\" aria-expanded=\"false\">CUSTOMISATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Overview Applications.html\" aria-expanded=\"false\">APPLICATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Training.html\" aria-expanded=\"false\">TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-title": {
+              "color": "#000000"
+            },
+            ".heading-text": {
+              "color": "#000000"
+            },
+            ".heading-title B": {
+              "font-size": "80px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-11",
+          "_params": {
+            "containerColor1": "#084a6e",
+            "containerColor2": "#24a383",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tethered-drone-2000x1333.jpg",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "<i><b>HOVER-T&nbsp;</b>('hɒvə)</i>",
+          "text": "Flight Time: ∞ mins&nbsp;<br>Max Speed: &nbsp;30 km/hr<br>Max Take off Load: 15kg",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Hover-T.html#features3-12\" data-toolbar=\"-mbrBtnMove\">Features</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"Hover-T.html#table1-13\" data-toolbar=\"-mbrBtnMove\">Detail Specs</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"Hover-T.html#header3-16\" data-toolbar=\"-mbrBtnMove\">Field Test</a> "
+        },
+        {
+          "subtitle1": "Awesome",
+          "subtitle2": "Awesome",
+          "subtitle3": "Awesome",
+          "subtitle4": "Awesome",
+          "subtitle5": "Awesome",
+          "subtitle6": "Awesome",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            ".mbr-iconfont": {
+              "background": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            ".features": {
+              "background": "#f6f7f8"
+            },
+            ".heading-title": {
+              "font-size": "48px"
+            },
+            ".card-text": {
+              "color": "#616161"
+            }
+          },
+          "_anchor": "features3-12",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "featuresBg": "#f6f7f8",
+            "iconsBgColor": "@primaryColor",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1482053450283-3e0b78b09a70-2000x3000.jpg",
+            "bgColor": "#fffffd",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.95,
+            "overlayColor": "#fffffd",
+            "showHeading": true,
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showFeaturesHeader": true,
+            "columns": 2,
+            "showFeaturesImages": true,
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false
+          },
+          "title": "Features",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "header": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "electricity",
+              "family": "iconsMind",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 40,
+              "color": "#fff"
+            }
+          },
+          "title1": "UNLIMITED POWER<br>- Long endurance flight",
+          "text1": "Hover is built for long endurance operation and surveillance purpose.&nbsp;",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "weight-lift",
+              "family": "icon54",
+              "active": true,
+              "link": "",
+              "size": 40,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title2": "HEAVY LIFTING<br>- Strong and stable",
+          "text2": "Specially customised for heavy duty lifting, Hover can&nbsp;",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "user-path",
+              "family": "icon54-v2",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 40,
+              "color": "#fff"
+            }
+          },
+          "title3": "AUTONOMOUS <br>- Easy control",
+          "text3": "Once launched, Hover follows a pre-planned route, and lands automatically with precision. No flight training required.&nbsp;",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "life-safer",
+              "family": "iconsMind",
+              "active": true,
+              "link": "",
+              "size": 40,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title4": "Safety&nbsp;<br>- Peace of mind",
+          "text4": "Built in safety features for emergency landing, in the event of unforeseen equipment failure. &nbsp;",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "cash",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "color": "#fff",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title5": "Host Anywhere",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo error voluptatibus possimus nobis quos minima pariatur aperiam, sunt commodi incidunt nam iusto ipsa distinctio ipsam!",
+          "button5": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "unlock",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "color": "#fff",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title6": "Bootstrap 4",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut officia reiciendis id enim hic harum voluptatem repellat incidunt soluta cum quia facere sed, ea illo.",
+          "button6": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "table1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px"
+            }
+          },
+          "_anchor": "table1-13",
+          "_params": {
+            "rowСount": "6",
+            "colCount": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1463130456064-77fda7f96d6b-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#fff",
+            "showTitle": true,
+            "showSearch": false
+          },
+          "title": "Detail Specifications",
+          "search": "Search:",
+          "info1": "Showing",
+          "info2": "entries",
+          "info3": "(filtered from",
+          "info4": "total entries)",
+          "table": "<thead><tr><th><span style=\"font-weight: normal;\">DIMENSIONS:</span>&nbsp;</th><th><span style=\"font-weight: normal;\">Diameter: 700mm</span></th></tr></thead><tbody><tr><td>WEIGHT:</td><td>Empty: 2.7kg | 95 oz</td></tr><tr><td>MAX TAKE-OFF WEIGHT:&nbsp;</td><td>4.2kg | 74 oz</td></tr><tr><td>BATTERY:&nbsp;</td><td>Tethered powerline + 5000 mAh 3-cell LiPo Battery</td></tr><tr><td>GPS:</td><td>Built-in GPS</td></tr><tr><td>PERFORMANCE:<br></td><td>1100kv motor<br>RF Receiver ready SBUS / FHSS / FAAST / (PPM and PCM compatible)&nbsp;<br></td></tr><tr><td>TELEMETRY:</td><td>Radio Transmitter Frequency: 2.4GHZ&nbsp;<br>Telemetry: 9 MHz / 433 MHz<br>Video Downlink: 900MHz / 1.3GHz / 5.8GHz/<br>Radio Transmitter up to 3km / 1.7miles<br><br></td></tr></tbody>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H1": {
+              "font-size": "48px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-14",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Simple 3-Steps Process",
+          "meta": ""
+        },
+        {
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "touch",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "subtitle1": "Awesome",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "responsive",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "subtitle2": "Awesome",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "setting",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "subtitle3": "Awesome",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "hot-cup",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "subtitle4": "Awesome",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features14",
+          "_styles": {
+            ".mbr-iconfont": {
+              "color": "@primaryColor",
+              "border-color": "@primaryColor"
+            }
+          },
+          "_anchor": "features14-15",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "contentAlign": "center",
+            "iconsBgColor": "@primaryColor",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1481114536533-b80e3d4eb1d4-2000x2451.jpg",
+            "bgColor": "#fffffd",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.85,
+            "overlayColor": "#fffffd",
+            "showHeading": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "columns": 3,
+            "showFeaturesImages": true,
+            "showFeaturesTitles": false,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false
+          },
+          "title": "Always on your terms",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "number1": "<p>1</p>",
+          "title1": "What is Mobirise",
+          "text1": "Plan your flight path",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "number2": "<p>2</p>",
+          "title2": "What is Mobirise",
+          "text2": "Fly and collect data",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "number3": "<p>3</p>",
+          "title3": "What is Mobirise",
+          "text3": "Upload to SkyHigh UAV portal and wait for results",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "number4": "<p>4</p>",
+          "title4": "What is Mobirise",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-16",
+          "_params": {
+            "imageSize": 58,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/header3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/header/03.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=TnkDf1cQdlU&feature=em-upload_owner",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "title": "Field Testing",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer3",
+          "_anchor": "footer3-36",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "file:///C:/Users/martin/AppData/Local/Mobirise.com/Mobirise/projectData/01_2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#fff"
+          },
+          "title1": "Singapore",
+          "text2": "<a href=\"Tel: +6594873063\">+65 94873063</a>",
+          "title2": "Indonesia",
+          "text1": "<a href=\"Tel:+62082140900199\">+62 082140900199</a>",
+          "title3": "Need help? Call or email us",
+          "button": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"mailto:sales@skyhighuav.com\" data-toolbar=\"-mbrBtnMove\">Email Us</a>"
+        },
+        {
+          "_styles": {
+            "p": {
+              "color": "#000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer4",
+          "_anchor": "footer4-20",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 SkyHigh UAV Pte Ltd"
+        }
+      ]
+    },
+    "CIRRUS.html": {
+      "settings": {
+        "title": "CIRRUS - Fixed Wing",
         "meta_descr": "Drone, UAV, Fixed wing, agriculture, RC, aircraft, productivity, efficiency, tree health, tree counting, ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
         "order": 8
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-toggler": {
+              "color": "#74a3c7"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#74a3c7"
+            },
+            ".link, .dropdown-item": {
+              "color": "#74a3c7",
+              "font-family": "'Libre Franklin', serif"
+            },
+            ".link": {
+              "font-size": "0.8125rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.880rem"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#74a3c7"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#74a3c7",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#5aac98!important"
+            }
+          },
+          "buttons": "<a class=\"btn btn-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type text\">Download now</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu1",
+          "_anchor": "menu1-9",
+          "_params": {
+            "bgColor": "#fff",
+            "fontSize": 0.8125,
+            "imageSize": 4,
+            "fontName": {
+              "name": "Libre Franklin",
+              "css": "'Libre Franklin', serif",
+              "link": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
+            },
+            "fontColor": "#74a3c7",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/skyhigh-logo-white1-222x128.png",
+              "height": 128,
+              "alt": "Skyhigh UAV",
+              "link": "www.skyhighuav.com",
+              "title": "Welcome to SkyHigh UAV",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">FIXED WING</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cirrus.html\">CIRRUS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cirrus-XT.html\">CIRRUS-XT</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">MULTICOPTER</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hover-T.html\">HOVER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Hover-T.html\">HOVER-T (TETHERED)</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"customisation.html\" aria-expanded=\"false\">CUSTOMISATION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Overview Applications.html\" aria-expanded=\"false\">APPLICATIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Training.html\" aria-expanded=\"false\">TRAINING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About Us.html\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://mobirise.com/\">Download</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "margin-bottom": "1rem",
+              "color": "#ffffff"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            },
+            ".heading-title": {
+              "color": "#000000"
+            },
+            ".heading-text": {
+              "color": "#616161"
+            },
+            ".heading-title B": {
+              "font-size": "80px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-a",
+          "_params": {
+            "containerColor1": "#084a6e",
+            "containerColor2": "#24a383",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cirrus-2000x1414-1.jpg",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "<i><b>Cirrus </b>('sɪrəs)</i>",
+          "text": "Max Flight Time: 63 mins&nbsp;<br>Max Speed: &nbsp;60 km/hr<br>Max Take off Load: 2.1kg",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"cirrus.html#features3-d\" data-toolbar=\"-mbrBtnMove\">Features</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"cirrus.html#table1-k\" data-toolbar=\"-mbrBtnMove\">Detail Specs</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"cirrus.html#header3-l\" data-toolbar=\"-mbrBtnMove\">Field Test</a> "
+        },
+        {
+          "subtitle1": "Awesome",
+          "subtitle2": "Awesome",
+          "subtitle3": "Awesome",
+          "subtitle4": "Awesome",
+          "subtitle5": "Awesome",
+          "subtitle6": "Awesome",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            ".mbr-iconfont": {
+              "background": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            ".features": {
+              "background": "#f6f7f8"
+            },
+            ".heading-title": {
+              "font-size": "48px"
+            },
+            ".card-text": {
+              "color": "#616161"
+            }
+          },
+          "_anchor": "features3-d",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "featuresBg": "#f6f7f8",
+            "iconsBgColor": "@primaryColor",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1482053450283-3e0b78b09a70-2000x3000.jpg",
+            "bgColor": "#fffffd",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.95,
+            "overlayColor": "#fffffd",
+            "showHeading": true,
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showFeaturesHeader": true,
+            "columns": 2,
+            "showFeaturesImages": true,
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false
+          },
+          "title": "Features",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "header": "",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "briefcase",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 40,
+              "color": "#fff"
+            }
+          },
+          "title1": "PORTABLE <br>- Easy to carry",
+          "text1": "Fixed-wing can be dismantled into 3 parts. Setting up the plane takes less than 5 mins.&nbsp;",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "feather",
+              "family": "icon54",
+              "active": true,
+              "link": "",
+              "size": 40,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title2": "LIGHTWEIGHT <br>- Strong and stable",
+          "text2": "Made of high density foam, this plane is made to endure undesirable flight conditions.&nbsp;",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "user-path",
+              "family": "icon54-v2",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 40,
+              "color": "#fff"
+            }
+          },
+          "title3": "AUTONOMOUS <br>- Easy control",
+          "text3": "Once launched, the plane follows a pre-planned route, and lands automatically with precision. No flight training required.&nbsp;",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "target",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 40,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title4": "ACCURACY <br>- Terrain following",
+          "text4": "Fixed-wing maintains a constant height above the terrain to ensure crisp and sharp imaging&nbsp;",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "cash",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "color": "#fff",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title5": "Host Anywhere",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo error voluptatibus possimus nobis quos minima pariatur aperiam, sunt commodi incidunt nam iusto ipsa distinctio ipsam!",
+          "button5": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "unlock",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "color": "#fff",
+              "family": "MobiriseIcons"
+            }
+          },
+          "title6": "Bootstrap 4",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut officia reiciendis id enim hic harum voluptatem repellat incidunt soluta cum quia facere sed, ea illo.",
+          "button6": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "table1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px"
+            }
+          },
+          "_anchor": "table1-k",
+          "_params": {
+            "rowСount": "6",
+            "colCount": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1463130456064-77fda7f96d6b-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#fff",
+            "showTitle": true,
+            "showSearch": false
+          },
+          "title": "Detail Specifications",
+          "search": "Search:",
+          "info1": "Showing",
+          "info2": "entries",
+          "info3": "(filtered from",
+          "info4": "total entries)",
+          "table": "<thead><tr><th><span style=\"font-weight: normal;\">DIMENSIONS:</span>&nbsp;</th><th><span style=\"font-weight: normal;\">1550mm x 660 mm x 170 mm</span></th></tr></thead><tbody><tr><td>WEIGHT:</td><td>Empty: 700 gr | 25 oz</td></tr><tr><td>MAX TAKE-OFF WEIGHT:&nbsp;</td><td>2100 gr | 74 oz</td></tr><tr><td>BATTERY:&nbsp;</td><td>10000 mAh 3-cell LiPo Battery</td></tr><tr><td>GPS:</td><td>Built-in GPS</td></tr><tr><td>PERFORMANCE:<br></td><td>1100kv motor<br>5V servomotor<br>RF Receiver ready SBUS / FHSS / FAAST / (PPM and PCM compatible)&nbsp;<br></td></tr><tr><td>TELEMETRY:</td><td>Radio Transmitter Frequency: 2.4GHZ&nbsp;<br>Telemetry: 9 MHz / 433 MHz<br>Video Downlink: 900MHz / 1.3GHz / 5.8GHz/<br>Radio Transmitter up to 5km / 3.1miles<br><br></td></tr></tbody>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H1": {
+              "font-size": "48px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-i",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Simple 3-Steps Process",
+          "meta": ""
+        },
+        {
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "touch",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "subtitle1": "Awesome",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "responsive",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "subtitle2": "Awesome",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "setting",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "subtitle3": "Awesome",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "hot-cup",
+              "link": "https://mobirise.com",
+              "size": 40,
+              "family": "MobiriseIcons"
+            }
+          },
+          "subtitle4": "Awesome",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features14",
+          "_styles": {
+            ".mbr-iconfont": {
+              "color": "@primaryColor",
+              "border-color": "@primaryColor"
+            }
+          },
+          "_anchor": "features14-f",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "contentAlign": "center",
+            "iconsBgColor": "@primaryColor",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1481114536533-b80e3d4eb1d4-2000x2451.jpg",
+            "bgColor": "#fffffd",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.85,
+            "overlayColor": "#fffffd",
+            "showHeading": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "columns": 3,
+            "showFeaturesImages": true,
+            "showFeaturesTitles": false,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false
+          },
+          "title": "Always on your terms",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "number1": "<p>1</p>",
+          "title1": "What is Mobirise",
+          "text1": "Plan your flight path",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "number2": "<p>2</p>",
+          "title2": "What is Mobirise",
+          "text2": "Fly and collect data",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "number3": "<p>3</p>",
+          "title3": "What is Mobirise",
+          "text3": "Upload to SkyHigh UAV portal and wait for results",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "number4": "<p>4</p>",
+          "title4": "What is Mobirise",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-l",
+          "_params": {
+            "imageSize": 58,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/header3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/header/03.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=TnkDf1cQdlU&feature=em-upload_owner",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "title": "Field Testing",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-19",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Applications",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fotolia-66673037-subscription-monthly-m-2000x1332-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fotolia-66673037-subscription-monthly-m-2000x1332.jpg",
+                "caption": "Agriculture &amp; Forestry",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "caption": "Parcel delivery"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fotolia-69794995-subscription-monthly-m-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fotolia-69794995-subscription-monthly-m-2000x1334.jpg",
+                "caption": "Mining",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/capture1-2000x1266-800x506.png",
+                "image": "@PROJECT_PATH@/assets/images/capture1-2000x1266.png",
+                "caption": "Survey",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": true,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-18",
+          "articleLayout": false,
+          "allItem": "All",
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer3",
+          "_anchor": "footer3-38",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "file:///C:/Users/martin/AppData/Local/Mobirise.com/Mobirise/projectData/01_2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#fff"
+          },
+          "title1": "Singapore",
+          "text2": "<a href=\"Tel: +6594873063\">+65 94873063</a>",
+          "title2": "Indonesia",
+          "text1": "<a href=\"Tel:+62082140900199\">+62 082140900199</a>",
+          "title3": "Need help? Call or email us",
+          "button": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"mailto:sales@skyhighuav.com\" data-toolbar=\"-mbrBtnMove\">Email Us</a>"
+        },
+        {
+          "_styles": {
+            "p": {
+              "color": "#000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer4",
+          "_anchor": "footer4-2m",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 SkyHigh UAV Pte Ltd"
+        }
+      ]
+    },
+    "CIRRUS-XT.html": {
+      "settings": {
+        "title": "CIRRUS-XT - Fixed Wing",
+        "meta_descr": "Drone, UAV, Fixed wing, agriculture, RC, aircraft, productivity, efficiency, tree health, tree counting, ",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 7
       },
       "components": [
         {
